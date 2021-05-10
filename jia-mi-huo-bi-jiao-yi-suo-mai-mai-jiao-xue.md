@@ -9,7 +9,7 @@
 **緊接著，是在\[幣安交易所\]購買加密貨幣前要先"入金"。**  
 因為考量到未來會將"加密貨幣"換成台幣，所以我先在**台灣加密貨幣交易所MAX進行註冊開戶，再透過台灣加密貨幣交易所MAX購買USDT轉至幣安\(Binance\)交易所。**
 
-{% embed url="https://max.maicoin.com/signup?r=387c95b2" caption="MAX 註冊連結\(台灣交易所\)" %}
+{% embed url="https://max.maicoin.com/signup?r=387c95b2" caption="MAX 註冊連結\(台灣加密貨幣交易所\)" %}
 
 ## **\[流程步驟\]**
 
